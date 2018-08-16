@@ -3,3 +3,7 @@
 * TODO jsverify
 
 * TODO coverage
+
+* TODO PGP signature
+
+* TODO Google Closure Compiler compatibility
