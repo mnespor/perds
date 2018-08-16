@@ -1,0 +1,27 @@
+{
+  "name": "perds",
+  "version": "0.1.0",
+  "description": "Persistent data structures for JavaScript. Haply this is the immutable collections library for you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape lib/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mnespor/perds.git"
+  },
+  "keywords": [
+    "immutable",
+    "persistent",
+    "structural",
+    "sharing",
+    "collection",
+    "collections",
+    "freeze",
+    "clone",
+    "array",
+    "map"
+  ],
+  "author": "Matthew Nespor",
+  "license": "MIT"
+}
