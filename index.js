@@ -1,12 +1,12 @@
 "use strict";
 
-const freeze = require("./lib/freeze");
+const frozen = require("./lib/frozen");
 const getIn = require("./lib/get-in");
 const merge = require("./lib/merge");
 const mergeWith = require("./lib/merge");
 
 module.exports = {
-  freeze,
+  frozen,
   getIn,
   merge,
   mergeWith
