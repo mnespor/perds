@@ -2,7 +2,9 @@
 
 Haply this is the immutable collections library you need. Work with frozen arrays and objects in a way that is fast and memory-efficient. Powered by and named for Immutable.js's _per_sistent _d_ata _s_tructures.
 
-This is pre-release software. The API is not yet frozen.
+## Warning
+
+This is pre-release software. The functionality is not complete. The API is not yet frozen.
 
 ## Why do I need this?
 
@@ -22,8 +24,3 @@ Public key: nespor on Keybase.
 
 ## Benchmarks
 
-## Alternatives
-
-### Immer
-
-Immer is awesome. Like Perds, it has persistent data structures with plain JavaScript semantics. It uses a different backing store.
