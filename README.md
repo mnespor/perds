@@ -1,6 +1,6 @@
 # Perds
 
-Haply this is the immutable collections library you need. Work with frozen arrays and objects in a way that is fast and memory-efficient. Powered by and named for Immutable.js's _per_sistent _d_ata _s_tructures.
+Haply this is the immutable collections library you need. Work with frozen arrays and objects in a way that is fast and memory-efficient. Powered by and named for Immutable.js's *per*sistent *d*ata *s*tructures.
 
 ## Warning
 
