@@ -4,7 +4,7 @@
   "description": "Persistent data structures for JavaScript. Haply this is the immutable collections library for you.",
   "main": "index.js",
   "scripts": {
-    "test": "tape lib/**/*.js",
+    "test": "tape lib/**/*.test.js",
     "prettier": "prettier --write lib/**/*.js"
   },
   "repository": {
@@ -26,7 +26,9 @@
   "author": "Matthew Nespor",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "1.14.2"
+    "jsverify": "^0.8.3",
+    "prettier": "1.14.2",
+    "tape": "^4.9.1"
   },
   "dependencies": {
     "immutable": "^3.8.2"
